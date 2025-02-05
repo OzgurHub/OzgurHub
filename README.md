@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 I'm a passionate software developer with a keen interest in web development, open-source contributions, and exploring new technologies. I love to learn and share my knowledge with the community.
 
-- 🌱 I’m currently learning **[Insert Technology/Framework you are learning]**
-- 🔭 I’m currently working on **[Insert Project Name]**
+- 🌱 I’m currently learning **[Python]**
+- 🔭 I’m currently working on **[Data Analysis]**
 - 👯 I’m looking to collaborate on **[Insert Collaboration Interest]**
 - 💬 Ask me about **[Insert Topics you are knowledgeable about]**
 - 📫 How to reach me: **[Insert Contact Information]**
