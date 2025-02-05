@@ -22,7 +22,7 @@ I'm a passionate software developer with a keen interest in web development, ope
 - 🔭 I’m currently working on **[Data Analysis]**
 - 👯 I’m looking to collaborate on **[Insert Collaboration Interest]**
 - 💬 Ask me about **[Insert Topics you are knowledgeable about]**
-- 📫 How to reach me: **[Insert Contact Information]**
+- 📫 How to reach me: **[oziserin@gmail.com]**
 - ⚡ Fun fact: **[Insert Fun Fact about Yourself]**
 
 ## 🚀 Skills
